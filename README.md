@@ -1,15 +1,15 @@
-#WebTech_Projekt
+# WebTech_Projekt
 
-##Thema: Shareconomy-Plattform
+## Thema: Shareconomy-Plattform
 Von Adrian Franz
 
-###Überblick
+### Überblick
 Ich möchte eine Website erstellen, auf der Nutzer ihre persönlichen
 Gegenstände zum Verleih anbieten können.
 Das Projekt wird von der Funktionalität zuerst stark an eBay-Kleinanzeigen 
 erinnern. Ich plane darüber hinaus jedoch weitere Features zu implementieren.
 
-###Notwendige Features:
+### Notwendige Features:
 
 - [ ] Registrieren/Einlogen
 - [ ] Item erstellen
@@ -18,7 +18,7 @@ erinnern. Ich plane darüber hinaus jedoch weitere Features zu implementieren.
 
 
 
-###Zusätzliche Features
+### Zusätzliche Features
 
 - Foto hochladen
 - Umkreissuche
