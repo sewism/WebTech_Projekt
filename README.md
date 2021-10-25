@@ -1,7 +1,7 @@
 # WebTech_Projekt
 
 ## Thema: Shareconomy-Plattform
-Von Adrian Franz
+Von Adrian Franz (s0577878)
 
 ### Überblick
 Ich möchte eine Website erstellen, auf der Nutzer ihre persönlichen
