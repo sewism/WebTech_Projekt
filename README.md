@@ -1,3 +1,4 @@
+[![Java CI with Gradle](https://github.com/sewism/WebTech_Projekt/actions/workflows/test.yml/badge.svg)](https://github.com/sewism/WebTech_Projekt/actions/workflows/test.yml)
 # WebTech_Projekt
 
 ## Thema: Shareconomy-Plattform
