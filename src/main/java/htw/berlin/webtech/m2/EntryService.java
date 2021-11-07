@@ -10,8 +10,7 @@ public class EntryService {
     EntryRepository repo;
 
     public Entry save(Entry entry){
-        Entry result = repo.save(entry);
-        return result;
+        return repo.save(entry);
     }
 
     public Entry get(Long id){

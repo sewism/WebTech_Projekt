@@ -1,4 +1,4 @@
-package htw.berlin.webtech.m1;
+package htw.berlin.webtech.m2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

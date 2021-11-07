@@ -1,4 +1,4 @@
-package htw.berlin.webtech.m1;
+package htw.berlin.webtech.m2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
