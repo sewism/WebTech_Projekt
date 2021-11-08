@@ -12,10 +12,10 @@ erinnern. Ich plane darüber hinaus jedoch weitere Features zu implementieren.
 
 ### Notwendige Features:
 
-- [ ] Registrieren/Einlogen
-- [ ] Item erstellen
-- [ ] Items anzeigen lassen
-- [ ] Nach Kategorie sortieren
+-  Registrieren/Einlogen
+-  Item erstellen
+-  Items anzeigen lassen
+-  Nach Kategorie sortieren
 
 
 
